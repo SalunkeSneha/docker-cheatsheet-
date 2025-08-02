@@ -124,4 +124,3 @@ Quick reference for daily Docker commands: building images, running containers, 
 
 ---
 
-Let me know if you want this exported as a downloadable `README.md` for your repo ❤️
